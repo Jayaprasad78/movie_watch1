@@ -1,0 +1,59 @@
+/* AddMovie.css */
+
+.add-movie-container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-movie-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-movie-container form div {
+    margin-bottom: 15px;
+  }
+  
+  .add-movie-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .add-movie-container input,
+  .add-movie-container textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-movie-container button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .add-movie-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .add-movie-container button[type="button"] {
+    background-color: #dc3545;
+    margin-top: 0;
+  }
+  
+  .add-movie-container button[type="button"]:hover {
+    background-color: #c82333;
+  }
+  

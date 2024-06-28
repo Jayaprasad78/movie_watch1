@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": "ac0a",
+      "title": "Baahubali",
+      "description": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler. It's a tale of two cousins in the Kingdom of Mahishmati, India. Balla fights his way with cousin Baahubali for the throne",
+      "releaseYear": "2015",
+      "genre": "Action",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "1140",
+      "title": "K.G.F",
+      "description": "The film centres around Raja Krishnappa Bairya \"Rocky\", born into poverty, who arrives in Bombay (now Mumbai) in the 1960s, on a quest for power and wealth as desired by his dying mother. Involved with the gold mafia there, he is recruited to kill Garuda, the oppressive heir-in-waiting, at the Kolar Gold Fields.",
+      "releaseYear": "2018",
+      "genre": "Action/Thriller",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "d7d2",
+      "title": "The Kerala Story",
+      "description": "Shalini Unnikrishnan, a woman who converted to Islam, shares her journey of aspiring to become a nurse, only to be coerced by extremist Muslims in her college who posed as friends. She was eventually manipulated into joining the Islamic State and ended up imprisoned in Afghanistan.\n",
+      "releaseYear": "2023",
+      "genre": "Crime/Drama",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "7e1f",
+      "title": "Ratsasan",
+      "description": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally. Circumstances force Arun, an aspiring film director, to take up the job of a Sub Inspector after his father passes away.",
+      "releaseYear": "2018",
+      "genre": " Thriller/Crime",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "afa6",
+      "title": "RRR",
+      "description": "RRR is an entirely fictitious story incorporating the lives of two real-life Indian revolutionaries, namely Alluri Sitarama Raju and Komaram Bheem, who fought against the British Raj and the Nizam of Hyderabad respectively. Charan plays Rama Raju while Rama Rao plays Komaram Bheem.",
+      "releaseYear": "2022",
+      "genre": "Action/Adventure",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "eaba",
+      "title": "kanthara",
+      "description": "kanthara is good movie acted by rishib sheety and team t decriebs tuluvas cluture",
+      "releaseYear": "2021",
+      "genre": "action/dram",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "7bfe",
+      "title": "vhsivoh",
+      "description": "ohiohoi",
+      "releaseYear": "2020",
+      "genre": "joj",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    },
+    {
+      "id": "cfa27d18-0f1b-4ba7-8ca8-6ed8bee7b9ed",
+      "title": "kii",
+      "description": "hiuhui",
+      "releaseYear": "2002",
+      "genre": "hiuhji",
+      "watched": false,
+      "rating": 0,
+      "review": ""
+    }
+  ]
+}

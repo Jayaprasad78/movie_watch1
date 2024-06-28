@@ -1,0 +1,102 @@
+.movie-list-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .add-movie-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .add-movie-link:hover {
+    background-color: #0056b3;
+  }
+  
+  .movie-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .movie-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-card h3 {
+    margin: 0;
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  
+  .movie-card p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .card-actions {
+    margin-top: 15px;
+  }
+  
+  .card-actions .edit-link,
+  .card-actions .delete-button,
+  .card-actions .details-button {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .card-actions .edit-link {
+    background-color: #ffc107;
+    color: #fff;
+  }
+  
+  .card-actions .delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+  }
+  
+  .card-actions .details-button {
+    background-color: #17a2b8;
+    color: #fff;
+  }
+  
+  .card-actions .edit-link:hover,
+  .card-actions .delete-button:hover,
+  .card-actions .details-button:hover {
+    opacity: 0.8;
+  }
+  
+  .watch-status {
+    margin-top: 10px;
+  }
+  
+  .watch-status label {
+    display: flex;
+    align-items: center;
+    color: #555;
+  }
+  
+  .watch-status input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  

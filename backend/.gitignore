@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+build/
+dist/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and debugging
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
