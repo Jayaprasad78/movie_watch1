@@ -22,6 +22,10 @@ server.use(
     "/api/*": "/$1"
   })
 );
+ server.get("/", (req, res) => {
+    res.json("Hello");
+})
+
 
 server.use(router);
 
