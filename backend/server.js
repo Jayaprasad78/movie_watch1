@@ -5,7 +5,7 @@ const cors = require('cors');
 
 // Use CORS middleware to allow requests from specified origin
 server.use(cors({
-  origin: ["https://deploy-mern-frontend.vercel.app"],
+  origin: ["https://movie-watch2-frontend-gb3usfkxe-jayaprasad78s-projects.vercel.app"],
   methods: ["POST", "GET","DELETE","PUT"],
   credentials: true
 }));
